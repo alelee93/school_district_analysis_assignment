@@ -10,7 +10,7 @@ The purpose of this analysis is to understand and showcase if the trends of a sc
 
 - After taking out the math and reading results of the 9th graders at Thomas High School, the average math score decreased by 0.1 points (from 79 to 78.9)
 
-  <img src="images/district_summary_df.png">
+  <img src="Images/district_summary_df.png">
 
 ### How is the school summary affected?
 
@@ -20,7 +20,7 @@ The purpose of this analysis is to understand and showcase if the trends of a sc
 
 Below image shows the updated metrics for Thomas High School:
 
-  <img src="images/ths_nans_updated.png">
+  <img src="Images/ths_nans_updated.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -28,7 +28,7 @@ Below image shows the updated metrics for Thomas High School:
 
 Below image shows the updated top performing schools:
 
-  <img src="images/top_schools_updated.png">
+  <img src="Images/top_schools_updated.png">
 
 ### Math and reading scores by grade
 
