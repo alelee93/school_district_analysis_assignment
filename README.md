@@ -1,4 +1,4 @@
-#School District Analysis - Pandas
+# School District Analysis - Pandas
 
 ## Overview of the School District Analysis
 
